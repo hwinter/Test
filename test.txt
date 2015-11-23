@@ -1,0 +1,1 @@
+This is a simple text file that I made to play around with during the Git Tutiral at CfA on 2015-11-23.
